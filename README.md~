@@ -1,0 +1,6 @@
+# To see the status of your network connection, use the command:
+
+ip addr
+
+# check the settings of your wireless connection without editing anything
+iwconfig
